@@ -7,19 +7,19 @@
   {
     "id": 1,
     "name": "Natalia",
-    "mail": "natalia@zopa.com",
+    "email": "natalia@zopa.com",
     "amount": 1500
   },
   {
     "id": 2,
     "name": "Thomas",
-    "mail": "thomas@zopa.com",
+    "email": "thomas@zopa.com",
     "amount": 1000 
   },
   {
     "id": 3,
     "name": "Martin",
-    "mail": "martin@zopa.com",
+    "email": "martin@zopa.com",
     "amount": 2000 
   }]
 }
