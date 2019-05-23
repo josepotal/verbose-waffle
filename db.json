@@ -1,26 +1,25 @@
 {
   "account": {
     "id": 1,
-    "sent": 4500,
     "available": 13500,
-    "transactions" : [
-    {
-      "id": 1,
-      "name": "Natalia",
-      "mail": "natalia@zopa.com",
-      "amount": 1500
-    },
-    {
-      "id": 2,
-      "name": "Thomas",
-      "mail": "thomas@zopa.com",
-      "amount": 1000 
-    },
-    {
-      "id": 3,
-      "name": "Martin",
-      "mail": "martin@zopa.com",
-      "amount": 2000 
-    }]
-  }
+  },
+  "transactions" : [
+  {
+    "id": 1,
+    "name": "Natalia",
+    "mail": "natalia@zopa.com",
+    "amount": 1500
+  },
+  {
+    "id": 2,
+    "name": "Thomas",
+    "mail": "thomas@zopa.com",
+    "amount": 1000 
+  },
+  {
+    "id": 3,
+    "name": "Martin",
+    "mail": "martin@zopa.com",
+    "amount": 2000 
+  }]
 }
